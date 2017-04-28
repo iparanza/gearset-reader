@@ -1,0 +1,6 @@
+[package]
+name = "gearset"
+version = "0.1.0"
+authors = ["iparanza <ian.aranza@gmail.com>"]
+
+[dependencies]
